@@ -2,9 +2,9 @@
 snake water gun game
 this game made by using while loop.
 here we take one input from computer, and one input from human.
-s=snake
-w=water
-g=gun
+s=snake,
+w=water,
+g=gun.
 Rule of Game:
 We have only 10 chance.
 1. one input is snake or other is water :- then snake will drink all water and snake will win
